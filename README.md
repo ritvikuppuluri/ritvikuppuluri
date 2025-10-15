@@ -1,6 +1,4 @@
-## Name: Ritvik Chowdary Uppuluri
-## Major: Computer Science and Business Administration
-## Expected Graduation Date: 15th May 2029
+
 
 <!--
 **ritvikuppuluri/ritvikuppuluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
